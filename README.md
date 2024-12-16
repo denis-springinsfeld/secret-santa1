@@ -3,6 +3,8 @@
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/lb3a7jJb0NFPNJ4VsN0plg/Secret-Santa---Christmas-Landing-Page-Completed-(Community)?node-id=21-33&embed-host=share" allowfullscreen></iframe>
 
+https://www.figma.com/proto/lb3a7jJb0NFPNJ4VsN0plg/Secret-Santa---Christmas-Landing-Page-Completed-(Community)?node-id=21-33&t=tdPgcB1OekvSK5v2-1
+
 On vous propose de réaliser une application web permettant de gérer un tirage au sort pour un **Secret Santa**. La structure de base vous est fournie, avec les fonctionnalités de base :
 
 - ajouter/supprimer un participant
